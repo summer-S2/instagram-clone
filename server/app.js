@@ -29,7 +29,7 @@ app.use(cors());
 
 // set static path in this app.
 app.use('/api/static', express.static('public'));
-app.use('/api/files', express.static('files'));
+app.use('/api/files', express.static('files'))
 
 // ROUTER
 app.use('/api', indexRouter);
