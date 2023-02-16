@@ -2,7 +2,7 @@
 hello express
 
 # Server - Client Model
-![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1200px-Client-server-model.svg.png]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1200px-Client-server-model.svg.png)
 
 # MVC Pattern
 
