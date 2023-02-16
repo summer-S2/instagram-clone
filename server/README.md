@@ -6,11 +6,13 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png)
 
 
+# Authorization & Authentication: JWT(JSON WEB TOKEN)
+![](https://www.vaadata.com/blog/wp-content/uploads/2016/12/JWT_tokens_EN.png)
+
+
 # DATABASE: MongoDB Community Server
 [https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community)
 
-# Authorization & Authentication: JWT(JSON WEB TOKEN)
-![](https://uploads.toptal.io/blog/image/956/toptal-blog-image-1426676395222.jpeg)
 
 # Server Testing Tool: POSTMAN
 [https://www.postman.com/](https://www.postman.com/)
